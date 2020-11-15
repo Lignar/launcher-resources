@@ -1,8 +1,8 @@
 {
-  "backendVersion": 1,
-  "frontendVersion": 1,
-  "modVersion": 1, 
-  "backendUrl": "",
+  "backendVersion": "0.0.1",
+  "frontendVersion": "0.0.1",
+  "modVersion": "0.0.1", 
+  "backendUrl": "https://gitlab.com/dzieje-khorinis/mod-launcher/-/jobs/850201043/artifacts/download",
   "frontendURL": "",
   "modUrl": "https://api.github.com/repos/dzieje-khorinis/Download-DK/releases/assets/22589056"
 }
