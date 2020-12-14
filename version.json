@@ -1,9 +1,10 @@
 {
   "backendVersion": "0.0.1",
   "frontendVersion": "0.0.1",
-  "modVersion": "0.0.1", 
+  "modVersion": "0.0.2", 
   "backendUrl" : "https://www.dropbox.com/s/rut6bjsviu36ohl/launcher.zip?dl=1",
   "backendUrlOld": "https://gitlab.com/api/v4/projects/14973393/jobs/850201043/artifacts",
   "frontendURL": "https://gitlab.com/api/v4/projects/14973393/jobs/861901327/artifacts",
-  "modUrl": "https://api.github.com/repos/dzieje-khorinis/Download-DK/releases/assets/22589056"
+  "modUrl": "https://api.github.com/repos/dzieje-khorinis/Download-DK/releases/assets/22589956"
+  "modUrlOld": "https://api.github.com/repos/dzieje-khorinis/Download-DK/releases/assets/22589056"
 }
